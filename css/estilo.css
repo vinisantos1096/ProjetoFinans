@@ -16,6 +16,5 @@ footer div#copy p {
 	font-weight: bold;
 }
 
-@media (min-width: 480px) and (max-width: 779px) {
-	#texth1 {font-size: 2em;}
-}
+@media (min-width: 320px) and (max-width: 820px) {
+	#texth1 {font-size: 2em;}}
